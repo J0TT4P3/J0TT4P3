@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil Social</title>
+</head>
+<body>
+    <h1>Minhas Redes Sociais</h1>
+    <h2>Quem sou eu?</h2>
+
+<img src="midia/fotoeu.png" alt="Minha Foto"></img>
+
+    <p>Me chamo <strong>José Pedro</strong>, tenho 16 anos. Sempre gostei de tecnologia e computação, agora estou aprendendo a programar.</p>
+
+    <h2>Como falar comigo?</h2>
+    <ul>
+        <li><a href="https://www.instagram.com/_josepedro9/#">/_josepedro9</a> - Me siga no Instagram</li>
+        <li><a href="https://github.com/J0TT4P3/J0TT4P3.git" target="_blank" rel="external">/J0TT4P3</a> - Acesse meu repositório no GitHub</li>
+    </ul>
+</body>
+</html>
